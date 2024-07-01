@@ -1,0 +1,177 @@
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll.config
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.pdb
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe.config
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.rsp
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe.config
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.rsp
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.AppContext.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Console.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Http.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.ValueTuple.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe.config
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.rsp
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebAppli.5924891A.Up2Date
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.dll
+C:\Users\dell\source\repos\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.pdb
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll.config
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.pdb
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe.config
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Console.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Http.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.ValueTuple.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebAppli.5924891A.Up2Date
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.dll
+C:\Users\dell\Desktop\2024 Semestre 1\APP_MOVILES\prueba 4\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.pdb
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll.config
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\WebApplicationPrueba4.pdb
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.exe.config
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csc.rsp
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.exe.config
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\csi.rsp
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.AppContext.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Console.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Http.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.ValueTuple.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.exe.config
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\vbc.rsp
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.AssemblyReference.cache
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.csproj.CoreCompileInputs.cache
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebAppli.5924891A.Up2Date
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.dll
+C:\Users\LACLL\Desktop\ultima prueba app junio 2024\WebApplicationPrueba4\WebApplicationPrueba4\obj\Debug\WebApplicationPrueba4.pdb
